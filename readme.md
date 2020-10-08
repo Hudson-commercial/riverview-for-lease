@@ -15,7 +15,7 @@
 
 ## About
 
-This is a professionally designed web boruche for marketing purposes of Leaseing the warehouse/office space that is availible at 22-#24 Riverview Dr  Marlboro, NY 12542
+This is a professionally designed web website for marketing purposes of Leasing the warehouse/office space that is available at 22-#24 Riverview Dr Marlboro, NY 12542.
 .
 
 ## Tools
