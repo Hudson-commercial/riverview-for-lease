@@ -6,7 +6,7 @@
 
 
 
-## Links https://www.loopnet.com/Listing/22-24-Riverview-Dr-Marlboro-NY/21143335/
+## Links
 
 - [https://hudson-commercial.github.io/riverview-for-lease/](https://hudson-commercial.github.io/riverview-for-lease/) - Link to Project website - 
 - [https://hudsoncommercial.com/](https://hudsoncommercial.com/) - Link to Hudson Commercial Real Estate Website - 
